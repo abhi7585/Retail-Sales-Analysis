@@ -89,10 +89,7 @@ Feel free to download and explore the dataset and analysis files. You can modify
 
 ## **Project Files**
 
-- **Retail Sales Dataset.xlsx**: The dataset used for the analysis.
+- **Retail Sales Dataset.csv**: The dataset used for the analysis.
 - **Retail Sales Analysis.xlsx**: The Excel workbook containing all analysis, visualizations, and findings.
 - **Images Folder**: Contains screenshots for each key question.
 
-## **Contact**
-
-For any questions or feedback, please contact [Your Name] at [your-email@example.com].
